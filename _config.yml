@@ -16,7 +16,7 @@ timezone: America/New_York
 
 title: Fast Robots Webpage # the main title
 
-tagline: Course Website for ECE 4160 (Fast Robots) # it will display as the subtitle
+tagline: Course Website for ECE 4160 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Course Website for ECE 4160 (Fast Robots)
