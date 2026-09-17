@@ -22,6 +22,32 @@ package-lock.json
 !.vscode/extensions.json
 !.vscode/tasks.json
 
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DocumentRevisions-V100
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# Editor swap files
+*.swp
+*.swo
+*~
+
+# Sass cache (older Jekyll versions)
+.sass-cache
+
 # Misc
 _sass/vendors
 assets/js/dist
